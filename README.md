@@ -30,4 +30,4 @@ pip install -r requirements.txt
 
 ## Run online
 
-You can make your image [here](https://randomwalkartgenerator.streamlit.app/)
+You can make your image [here](https://randomwalkartgenerator.streamlit.app/).
