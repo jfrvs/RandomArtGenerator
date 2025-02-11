@@ -26,3 +26,8 @@ Ensure you have **Python 3.8+** installed, along with the following dependencies
 
 ```sh
 pip install -r requirements.txt
+```
+
+## Run online
+
+You can make your image [here](https://randomwalkartgenerator.streamlit.app/)
